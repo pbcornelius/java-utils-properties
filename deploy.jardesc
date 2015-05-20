@@ -13,7 +13,6 @@
     <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
         <javaElement handleIdentifier="=Utils Properties/src"/>
         <file path="/Utils Properties/LICENSE"/>
-        <file path="/Utils Properties/.classpath"/>
-        <file path="/Utils Properties/.project"/>
+        <file path="/Utils Properties/README.md"/>
     </selectedElements>
 </jardesc>
