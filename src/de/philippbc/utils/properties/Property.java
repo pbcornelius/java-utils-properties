@@ -16,7 +16,8 @@ package de.philippbc.utils.properties;
  * 		this.def = def;
  * 	}
  * 
- * 	{@literal @}Override public String getDefault() {
+ * 	{@literal @}Override
+ * 	public String getDefault() {
  * 		return def;
  * 	}
  * }
