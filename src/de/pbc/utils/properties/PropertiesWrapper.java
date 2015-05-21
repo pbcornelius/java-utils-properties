@@ -1,4 +1,4 @@
-package de.philippbc.utils.properties;
+package de.pbc.utils.properties;
 
 import java.io.IOException;
 import java.nio.file.Files;
