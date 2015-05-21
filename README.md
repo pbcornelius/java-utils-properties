@@ -21,3 +21,5 @@ public enum Properties implements Property {
 Now the property `INTEGER_PROPERTY` defined above can be accessed with `getInt(Properties.INTEGER_PROPERTY)` and set with `setInt(Properties.INTEGER_PROPERTY, 3)`.
 
 Since this is a wrapper class for Java's default `java.util.Properties` class, all it's mechanisms and limitations apply.
+
+A compiled jar is in the deploy folder.
