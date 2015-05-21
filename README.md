@@ -1,4 +1,4 @@
-# java-utils-properties
+#### Simple `java.util.Properties` Wrapper
 Simple `java.util.Properties` wrapper, which allows easy definition and retrieval of properties via an interface. The `Property` interface allows a straightforward definition of properties in an `enum`. For instance:
 
 ```
